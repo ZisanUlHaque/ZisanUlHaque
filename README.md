@@ -18,7 +18,8 @@ I'm a developer.
 # 
 
 # 🌐 My Portfolio
-[![My Portfolio](https:/![Screenshot 2025-01-09 233002](https://github.com/user-attachments/assets/58e5ad9e-8aab-4e7f-94f4-09b6b5eeb89a)(https://zisanulhaque.github.io/First_Portfolio/)
+[Screenshot 2025-01-09 233002](https://github.com/user-attachments/assets/58e5ad9e-8aab-4e7f-94f4-09b6b5eeb89a)
+(https://zisanulhaque.github.io/First_Portfolio/)
      
 ### 📊 Stats
 
