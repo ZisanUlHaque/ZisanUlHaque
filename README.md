@@ -18,10 +18,7 @@ I'm a developer.
 # 
 
 # 🌐 My Portfolio
-
-<!-- Portfolio card -->
-[![My Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://zisanulhaque.github.io/First_Portfolio/)
-
+[![My Portfolio](https://via.placeholder.com/250x150.png?text=My+Portfolio)](https://zisanulhaque.github.io/First_Portfolio/)
      
 ### 📊 Stats
 
