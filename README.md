@@ -15,10 +15,13 @@ I'm a developer.
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+# 
 
 # 🌐 My Portfolio
 
-Check out my personal portfolio here: [Zisan Ul Haque Portfolio](https://zisanulhaque.github.io/First_Portfolio/)
+<!-- Portfolio card -->
+[![My Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://zisanulhaque.github.io/First_Portfolio/)
+
      
 ### 📊 Stats
 
