@@ -19,7 +19,8 @@
 
 
 # 🌐 My Portfolio
-![My Portfolio](https://github.com/user-attachments/assets/58e5ad9e-8aab-4e7f-94f4-09b6b5eeb89a)
+![My Portfolio](https://github.com/user-attachments/assets/![Screenshot (989)](https://github.com/user-attachments/assets/57d648fa-884f-487b-af65-52e081c198c1)
+)
 
 [**Visit My Portfolio**]([https://zisanulhaque.github.io/First_Portfolio/](https://zisanulhaque.github.io/portfolio-1/))
 
