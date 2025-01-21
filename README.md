@@ -37,5 +37,5 @@
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zisanulhaque)
-- 📧 Email: [zisanulhaque@example.com](mailto:zisanulhaque@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zisan-ul-haque/)
+- 📧 Email: [mdzisanulhaque989@gmail.com]
