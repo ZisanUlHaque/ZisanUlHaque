@@ -14,13 +14,21 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 ---
 
-## 🌐 My Portfolio
+## Latest Projects
 
-[![Portfolio Screenshot](https://github.com/user-attachments/assets/57d648fa-884f-487b-af65-52e081c198c1)](https://zisanulhaque.github.io/portfolio-1/)
+<table style="width:100%">
+  <tr>
+    <td style="width:33%; padding: 5px;">
+      <div>
+         <a href="https://mamar-bank-8zxv.onrender.com/" ><img src="![Screenshot (991)](https://github.com/user-attachments/assets/7b6a4b69-804c-4e32-9936-992e0bb4c979)
+" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Mamar Bank</h3>
+        <p>This is a simple Mamar Bank where you can create an account, login, logout.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-[**Visit My Portfolio**](https://zisanulhaque.github.io/portfolio-1/)
-
----
 
 ---
 
