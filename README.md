@@ -29,8 +29,10 @@
 <!-- BEGIN PROJECT-CARDS -->
 [![Mamar Bank](https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=120 "Mamar Bank")](https://mamar-bank-8zxv.onrender.com/)
 [![Another Project Coming Soon](https://ytcards.demolab.com/?id=placeholder&title=Another+Project+Coming+Soon&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=120 "Another Project Coming Soon")](#)
-<!-- END PROJECT-CARDS -->
 
+<!-- Adding the uploaded image -->
+[![Mamar Bank Screenshot](./Screenshot%20(991).png "Mamar Bank Screenshot")](https://mamar-bank-8zxv.onrender.com/)
+<!-- END PROJECT-CARDS -->
 
 ---
 
