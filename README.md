@@ -14,16 +14,16 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 ---
 
+
 ## Latest Projects
 
 <table style="width:100%">
   <tr>
     <td style="width:33%; padding: 5px;">
       <div>
-         <a href="https://mamar-bank-8zxv.onrender.com/" ><img src="![Screenshot (991)](https://github.com/user-attachments/assets/7b6a4b69-804c-4e32-9936-992e0bb4c979)
-" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
-        <h3>Mamar Bank</h3>
-        <p>This is a simple Mamar Bank where you can create an account, login, logout.</p>
+         <a href="https://mamar-bank-8zxv.onrender.com/" ><img src="Screenshot (991).png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Traveloo</h3>
+        <p>A travel website enabling global travel searches, hotel bookings.</p>
       </div>
     </td>
   </tr>
