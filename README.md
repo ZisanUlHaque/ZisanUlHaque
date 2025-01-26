@@ -26,17 +26,11 @@
 [**Visit My Portfolio**](https://zisanulhaque.github.io/portfolio-1/)
 
 ---
-### 🛠️ Latest Projects  
+<!-- BEGIN PROJECT-CARDS -->
+[![Mamar Bank](https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=120 "Mamar Bank")](https://mamar-bank-8zxv.onrender.com/)
+[![Another Project Coming Soon](https://ytcards.demolab.com/?id=placeholder&title=Another+Project+Coming+Soon&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=120 "Another Project Coming Soon")](#)
+<!-- END PROJECT-CARDS -->
 
-#### **Mamar Bank**  
-A modern online banking platform that empowers users to manage their finances efficiently. Key features include:  
-- **User Management**: Create accounts, log in, and log out seamlessly.  
-- **Financial Independence**: Access a range of savings products and services to promote self-reliance.  
-- **Personalized Support**: One-on-one assistance for loans and financial planning to achieve life aspirations.  
-
-🌐 **[Live Demo](https://mamar-bank-8zxv.onrender.com/)**  
-
-![Mamar Bank Screenshot](https://github.com/user-attachments/assets/57d648fa-884f-487b-af65-52e081c198c1)  
 
 ---
 
