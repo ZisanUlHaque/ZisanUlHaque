@@ -13,14 +13,13 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-
+## Latest Projects
 <table style="width:100%">
   <tr>
     <td style="width:33%; padding: 5px;">
       <div>
          <a href="https://mamar-bank-8zxv.onrender.com/" >
-            <img src="https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a" alt="Project 1 Image" style="width: 100%; border-radius: 5px;">
+            <img src="https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a" alt="Project 1 Image" style="width: 80%; border-radius: 5px;">
          </a>
          <h3>Mamar Bank</h3>
          <p>A travel website enabling global travel searches, hotel bookings.</p>
