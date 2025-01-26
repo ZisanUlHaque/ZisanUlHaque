@@ -20,7 +20,8 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
     <td style="width:33%; padding: 5px;">
       <div>
          <a href="https://mamar-bank-8zxv.onrender.com/" >
-            <img src="./Screenshot%20(991).png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;">
+            <img src="![Screenshot (991)](https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a)
+" alt="Project 1 Image" style="width: 100%; border-radius: 5px;">
          </a>
          <h3>Mamar Bank</h3>
          <p>A travel website enabling global travel searches, hotel bookings.</p>
