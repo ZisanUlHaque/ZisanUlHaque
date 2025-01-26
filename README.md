@@ -1,10 +1,10 @@
 # Zisan Ul Haque
 
 ## 🌐 Web Developer || 💻 Programmer
-
+---
 # 💫 About Me:
 I am a Second year Computer Science Engineering (CSE) student at Pundra University of Science & Technology, with a strong passion for technology and problem-solving. My studies have given me a solid foundation in programming languages such as Python, Java, C, C++ and algorithms. I’m particularly interested in Software engineering.
----
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zisan.ul.haque.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zisan-ul-haque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Zisan_03) 
 
@@ -26,14 +26,9 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 
 ### 📊 GitHub Stats
-
-![Zisan Ul Haque's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&theme=transparent)
-
+![](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-
-
 
 
