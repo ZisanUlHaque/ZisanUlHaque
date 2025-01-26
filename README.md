@@ -22,7 +22,7 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
             <img src="https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a" alt="Project 1 Image" style="width: 50%; border-radius: 5px;">
          </a>
          <h3>Mamar Bank</h3>
-         <p>A travel website enabling global travel searches, hotel bookings.</p>
+         <p>This is a simple Mamar Bank where you can create an account, login, logout.</p>
       </div>
     </td>
   </tr>
