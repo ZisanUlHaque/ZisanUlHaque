@@ -26,11 +26,30 @@
 [**Visit My Portfolio**](https://zisanulhaque.github.io/portfolio-1/)
 
 ---
-<!-- BEGIN PROJECT-CARDS -->
-[![Mamar Bank](https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120 "Mamar Bank")](https://mamar-bank-8zxv.onrender.com/)
-[![Another Project Coming Soon](https://ytcards.demolab.com/?id=placeholder&title=Another+Project+Coming+Soon&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120 "Another Project Coming Soon")](#)
-[![Mamar Bank Screenshot](https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank+Screenshot&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120 "Mamar Bank Screenshot")](./Screenshot%20(991).png)
-<!-- END PROJECT-CARDS -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <div style="text-align: center;">
+    <a href="https://mamar-bank-8zxv.onrender.com/" target="_blank">
+      <img src="https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Mamar Bank" style="width: 100%; border-radius: 10px;">
+    </a>
+    <h3 style="color: #ffffff; margin: 10px 0;">Mamar Bank</h3>
+    <p style="color: #dedede;">A complete banking solution with modern features.</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="#" target="_blank">
+      <img src="https://ytcards.demolab.com/?id=placeholder&title=Another+Project+Coming+Soon&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Another Project Coming Soon" style="width: 100%; border-radius: 10px;">
+    </a>
+    <h3 style="color: #ffffff; margin: 10px 0;">Another Project Coming Soon</h3>
+    <p style="color: #dedede;">Stay tuned for updates on this exciting new project.</p>
+  </div>
+  <div style="text-align: center;">
+    <a href="./Screenshot%20(991).png" target="_blank">
+      <img src="https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank+Screenshot&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Mamar Bank Screenshot" style="width: 100%; border-radius: 10px;">
+    </a>
+    <h3 style="color: #ffffff; margin: 10px 0;">Mamar Bank Screenshot</h3>
+    <p style="color: #dedede;">A preview of the Mamar Bank application.</p>
+  </div>
+</div>
+
 
 
 ---
