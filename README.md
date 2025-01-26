@@ -2,20 +2,15 @@
 
 ## 🌐 Web Developer || 💻 Programmer
 
+# 💫 About Me:
+I am a Second year Computer Science Engineering (CSE) student at Pundra University of Science & Technology, with a strong passion for technology and problem-solving. My studies have given me a solid foundation in programming languages such as Python, Java, C, C++ and algorithms. I’m particularly interested in Software engineering.
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zisan.ul.haque.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zisan-ul-haque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Zisan_03) 
 
-### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br /><br />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -26,31 +21,6 @@
 [**Visit My Portfolio**](https://zisanulhaque.github.io/portfolio-1/)
 
 ---
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <a href="https://mamar-bank-8zxv.onrender.com/" target="_blank">
-      <img src="https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Mamar Bank" style="width: 100%; border-radius: 10px;">
-    </a>
-    <h3 style="color: #ffffff; margin: 10px 0;">Mamar Bank</h3>
-    <p style="color: #dedede;">A complete banking solution with modern features.</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="#" target="_blank">
-      <img src="https://ytcards.demolab.com/?id=placeholder&title=Another+Project+Coming+Soon&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Another Project Coming Soon" style="width: 100%; border-radius: 10px;">
-    </a>
-    <h3 style="color: #ffffff; margin: 10px 0;">Another Project Coming Soon</h3>
-    <p style="color: #dedede;">Stay tuned for updates on this exciting new project.</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="./Screenshot%20(991).png" target="_blank">
-      <img src="https://ytcards.demolab.com/?id=placeholder&title=Mamar+Bank+Screenshot&lang=en&timestamp=1706150400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120" alt="Mamar Bank Screenshot" style="width: 100%; border-radius: 10px;">
-    </a>
-    <h3 style="color: #ffffff; margin: 10px 0;">Mamar Bank Screenshot</h3>
-    <p style="color: #dedede;">A preview of the Mamar Bank application.</p>
-  </div>
-</div>
-
-
 
 ---
 
@@ -63,7 +33,7 @@
 
 ---
 
-### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zisan-ul-haque/)
-- 📧 Email: [mdzisanulhaque989@gmail.com]
+
+
+
