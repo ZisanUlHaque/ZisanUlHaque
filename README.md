@@ -30,5 +30,8 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque)](https://github.com/ZisanUlHaque/github-readme-stats)
+---
