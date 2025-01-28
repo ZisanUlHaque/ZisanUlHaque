@@ -31,4 +31,4 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque)](https://github.com/ZisanUlHaque/github-readme-stats)
