@@ -3,7 +3,7 @@
 ## 🌐 Web Developer || 💻 Programmer
 ---
 # 💫 About Me:
-I am a Second year Computer Science Engineering (CSE) student at Pundra University of Science & Technology, with a strong passion for technology and problem-solving. My studies have given me a solid foundation in programming languages such as Python, Java, C, C++ and algorithms. I’m particularly interested in  ## 🌐 Web Developer.
+I am a Second year Computer Science Engineering (CSE) student at Pundra University of Science & Technology, with a strong passion for technology and problem-solving. My studies have given me a solid foundation in programming languages such as Python, Java, C, C++ and algorithms. I’m particularly interested in Web development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zisan.ul.haque.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zisan-ul-haque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Zisan_03) 
