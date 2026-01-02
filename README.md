@@ -105,14 +105,12 @@ I am a **MERN Stack Developer** and **Computer Science & Engineering student** a
 
 ## 📊 GitHub Statistics
 
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ZisanUlHaque&theme=react&hide_border=true"
     alt="GitHub Streak"
     height="165"
   />
-</p>
-</p>
+
 
 ---
 
