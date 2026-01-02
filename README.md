@@ -1,28 +1,35 @@
-# Zisan Ul Haque
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zisan%20Ul%20Haque&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## 🌐 Web Developer || 💻 Programmer
----
-# 💫 About Me:
-I am a Second year Computer Science Engineering (CSE) student at Pundra University of Science & Technology, with a strong passion for technology and problem-solving. My studies have given me a solid foundation in programming languages such as Python, Java, C, C++ and algorithms. I’m particularly interested in Web development.
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/ZisanUlHaque">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=440&lines=Web+Developer+%F0%9F%8C%90;Programmer+%F0%9F%92%BB;CSE+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zisan.ul.haque.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zisan-ul-haque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Zisan_03) 
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/zisan-ul-haque"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/zisan.ul.haque.2024"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/_Zisan_03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <img src="https://koma�-badges-iota-vercel.app/api/v1/github/followers/ZisanUlHaque?color=236ad3&logoColor=236ad3&style=for-the-badge" alt="followers"/>
+</p>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
-## Latest Projects
-
-            <img src="https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a" alt="Project 1 Image" style="width: 50%; border-radius: 5px;">
-
-
-
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZisanUlHaque&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+```javascript
+const zisan = {
+    education: "CSE Student @ Pundra University of Science & Technology",
+    currentFocus: "Web Development",
+    skills: ["Python", "Java", "C", "C++", "JavaScript", "Django"],
+    interests: ["Problem Solving", "Open Source", "Building Projects"],
+    funFact: "I debug code better at 2 AM ☕"
+};
