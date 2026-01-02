@@ -14,19 +14,10 @@ I am a Second year Computer Science Engineering (CSE) student at Pundra Universi
 
 ---
 ## Latest Projects
-<table style="width:100%">
-  <tr>
-    <td style="width:33%; padding: 5px;">
-      <div>
-         <a href="https://mamar-bank-8zxv.onrender.com/" >
+
             <img src="https://github.com/user-attachments/assets/155b2731-2f49-40bf-854a-cbb9f2f64c2a" alt="Project 1 Image" style="width: 50%; border-radius: 5px;">
-         </a>
-         <h3>Mamar Bank</h3>
-         <p>This is a simple Mamar Bank where you can create an account, login, logout.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+
+
 
 
 ---
