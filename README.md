@@ -16,9 +16,6 @@
   <a href="https://x.com/_Zisan_03" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/>
   </a>
-  <a href="https://facebook.com/zisan.ul.haque.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook"/>
-  </a>
   <a href="mailto:your.email@example.com" target="_blank">
     <!-- TODO: replace with your real email -->
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
@@ -114,23 +111,11 @@ I am a **MERN Stack Developer** and **Computer Science & Engineering student** a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&theme=react&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=ZisanUlHaque&theme=react&hide_border=true"
     alt="GitHub Streak"
     height="165"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=react&hide_border=true"
-    alt="Top Languages"
-    height="160"
-  />
 </p>
 
 ---
