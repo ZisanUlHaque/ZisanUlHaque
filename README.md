@@ -5,7 +5,7 @@
 
 <!-- ========= TYPING TITLE ========= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+JavaScript%20Engineer;React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB;Clean%20Code%20%7C%20Scalable%20Architecture%20%7C%20Problem%20Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB;Clean%20Code%20%7C%20Scalable%20Architecture%20%7C%20Problem%20Solving" alt="Typing SVG" />
 </p>
 
 <!-- ========= SOCIAL & CONTACT ========= -->
