@@ -16,7 +16,7 @@
   <a href="https://x.com/_Zisan_03" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:zisanpub@gmail.com" target="_blank">
     <!-- TODO: replace with your real email -->
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
   </a>
@@ -132,7 +132,7 @@ If you want to discuss a project, collaboration, or opportunity:
 
 - LinkedIn: [linkedin.com/in/zisan-ul-haque](https://linkedin.com/in/zisan-ul-haque)  
 - X (Twitter): [\_Zisan_03](https://x.com/_Zisan_03)  
-- Email: `your.email@example.com` <!-- TODO: replace with your real email -->
+- Email: `zisanpub@gmail.com` <!-- TODO: replace with your real email -->
 
 ---
 
