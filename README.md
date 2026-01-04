@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 I am a **MERN Stack Developer** and **Computer Science & Engineering student** at  
-**Pundra University of Science & Technology** (2nd year), focused on building modern, performant web applications.
+**Pundra University of Science & Technology** (3rd year), focused on building modern, performant web applications.
 
 - 💼 Working with **MongoDB, Express.js, React, Node.js (MERN)**
 - 🎯 Interested in **full‑stack product development** and **scalable backend APIs**
