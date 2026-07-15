@@ -40,11 +40,9 @@ I enjoy transforming ideas into real-world products, writing clean and maintaina
 
 | Name             | Description             | Project Link    | Video Link     |
 | ---------------- | ----------------------- | --------------- | -------------- |
-| [PROJECT 1 NAME] | [PROJECT 1 DESCRIPTION] | [Github]([URL]) | [Video]([URL]) |
-| [PROJECT 2 NAME] | [PROJECT 2 DESCRIPTION] | [Github]([URL]) | [Video]([URL]) |
-| [PROJECT 3 NAME] | [PROJECT 3 DESCRIPTION] | [Github]([URL]) |                |
-| [PROJECT 4 NAME] | [PROJECT 4 DESCRIPTION] | [Github]([URL]) |                |
-| [PROJECT 5 NAME] | [PROJECT 5 DESCRIPTION] | [Github]([URL]) |                |
+| RentNest | A robust backend API for a rental property marketplace built with Express, TypeScript, Prisma, and PostgreSQL. Landlords list properties, tenants browse and request rentals, payments are processed via Stripe, and admins oversee the entire platform. | [Github](https://github.com/ZisanUlHaque/RentNest) | [Video](https://drive.google.com/file/d/1mBXWjxTLu6N9VWSBLrMiAl32KEUuhEbg/view) |
+| Prisma Press | A robust backend API for a modern blogging platform built with Express, TypeScript, Prisma, and PostgreSQL. Users can create posts, engage through comments, subscribe for premium content access via Stripe, and admins can moderate content with powerful reporting tools. | [Github](https://github.com/ZisanUlHaque/project-prisma-press-backend) |                |
+| BeeBite | BeeBite is a demo restaurant platform that showcases real‑time order tracking with Socket.IO, MongoDB, and a modern React + Tailwind CSS UI. | [Github](https://github.com/ZisanUlHaque/Socket.io) |                |
 
 ### Cloud, DevOps and Testing
 
