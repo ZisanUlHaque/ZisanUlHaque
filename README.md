@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="./banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hey there! 👋 I'm Md. Zisan Ul Haque</h1>
