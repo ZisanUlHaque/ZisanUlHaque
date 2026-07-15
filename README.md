@@ -1,50 +1,234 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+
+# Hi 👋 I'm Zisan Ul Haque
+
+### Full Stack Developer | MERN Stack | Next.js | TypeScript
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+Developer;React+%7C+Node.js+%7C+Express.js;TypeScript+%7C+MongoDB+%7C+PostgreSQL;Building+Clean+%26+Scalable+Applications)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=ZisanUlHaque&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+# 💫 About Me
+
+I'm **Zisan Ul Haque**, a passionate Full Stack Developer from **Bangladesh 🇧🇩**.
+
+I love building scalable web applications using modern technologies.
+
+Currently focusing on writing clean backend architecture with **Node.js**, **Express.js**, **Prisma**, **PostgreSQL**, and building modern frontend experiences using **Next.js**, **React**, and **TypeScript**.
+
+I enjoy solving real-world problems through code and continuously learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack  
+# 🚀 Current Activities
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+- 🔭 Working on **RentNest**
+- 🌱 Learning **React Native**
+- ⚡ Exploring **Docker & AWS**
+- 💳 Building payment systems using **SSLCommerz & Stripe**
+- 📚 Improving Backend Architecture
+- 💼 Looking for Remote Internship / Junior Developer Opportunities
 
 ---
 
-## 🌐 Connect With Me  
+# 🌐 Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+### Website
 
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+https://zisan-ul-haque.vercel.app
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+# 📫 Contact
+
+**Email**
+
+mdzisanulhaque989@gmail.com
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/zisan-ul-haque">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ZisanUlHaque">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:mdzisanulhaque989@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://zisan-ul-haque.vercel.app">
+<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,docker"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZisanUlHaque&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ZisanUlHaque&theme=algolia&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Zisan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZisanUlHaque&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ZisanUlHaque/ZisanUlHaque/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏠 RentNest
+
+Rental Marketplace Platform
+
+- Next.js
+- Express.js
+- Prisma
+- PostgreSQL
+- JWT
+- SSLCommerz
+
+---
+
+## 📰 Prisma Press
+
+Modern News Portal
+
+- Next.js
+- TypeScript
+- PostgreSQL
+- Prisma
+
+---
+
+## 🍽️ ShebaGo
+
+Service Marketplace Backend
+
+- Express.js
+- Prisma
+- PostgreSQL
+- JWT
+
+---
+
+## ⚡ Socket.IO Realtime Order Tracking
+
+- Socket.IO
+- Express
+- React
+
+---
+
+# ✍ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+⭐ Don't forget to Follow me!
+
+</div>
