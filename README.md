@@ -1,234 +1,134 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+<img src="./banner.png" alt="Banner" width="100%" />
 
-# Hi 👋 I'm Zisan Ul Haque
+<h1 align="center">Hey there! 👋 I'm [YOUR NAME]</h1>
 
-### Full Stack Developer | MERN Stack | Next.js | TypeScript
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+Developer;React+%7C+Node.js+%7C+Express.js;TypeScript+%7C+MongoDB+%7C+PostgreSQL;Building+Clean+%26+Scalable+Applications)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=ZisanUlHaque&label=Profile+Views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm **Zisan Ul Haque**, a passionate Full Stack Developer from **Bangladesh 🇧🇩**.
-
-I love building scalable web applications using modern technologies.
-
-Currently focusing on writing clean backend architecture with **Node.js**, **Express.js**, **Prisma**, **PostgreSQL**, and building modern frontend experiences using **Next.js**, **React**, and **TypeScript**.
-
-I enjoy solving real-world problems through code and continuously learning new technologies.
-
----
-
-# 🚀 Current Activities
-
-- 🔭 Working on **RentNest**
-- 🌱 Learning **React Native**
-- ⚡ Exploring **Docker & AWS**
-- 💳 Building payment systems using **SSLCommerz & Stripe**
-- 📚 Improving Backend Architecture
-- 💼 Looking for Remote Internship / Junior Developer Opportunities
-
----
-
-# 🌐 Portfolio
-
-### Website
-
-https://zisan-ul-haque.vercel.app
-
----
-
-# 📫 Contact
-
-**Email**
-
-mdzisanulhaque989@gmail.com
-
----
-
-# 🌐 Connect With Me
+<h3 align="center">
+[YOUR TITLE] • [YOUR TITLE 2] • [YOUR TITLE 3]
+</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/zisan-ul-haque">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+I'm a software engineer from [YOUR COUNTRY] passionate about [YOUR PASSION].
 
-<a href="https://github.com/ZisanUlHaque">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+My core expertise includes <strong>[YOUR SKILLS]</strong>. I enjoy [WHAT YOU ENJOY].
 
-<a href="mailto:mdzisanulhaque989@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+Over the years, I've worked on projects ranging from <strong>[PROJECT TYPE 1]</strong> and <strong>[PROJECT TYPE 2]</strong> to <strong>[PROJECT TYPE 3]</strong> and <strong>[PROJECT TYPE 4]</strong>.
 
-<a href="https://zisan-ul-haque.vercel.app">
-<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
-</a>
+🚀 A few things I love building:
 
+<ul>
+  <li><strong>[THING 1]</strong> [DESCRIPTION 1]</li>
+  <li><strong>[THING 2]</strong> [DESCRIPTION 2]</li>
+  <li><strong>[THING 3]</strong> [DESCRIPTION 3]</li>
+  <li><strong>[THING 4]</strong> [DESCRIPTION 4]</li>
+  <li><strong>[THING 5]</strong> [DESCRIPTION 5]</li>
+</ul>
+
+[CLOSING STATEMENT]
 </p>
 
----
 
-# 💻 Tech Stack
 
-## Languages
+## Connect with me
+![Portfolio Badge](https://img.shields.io/badge/Portfolio-%2337BEFF?style=for-the-badge&logo=%2337BEFF&link=[YOUR PORTFOLIO URL]) &nbsp; 
+![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=[YOUR LINKEDIN URL]) &nbsp; 
+![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=[YOUR EMAIL]) &nbsp; 
+![Twitter Badge](https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=x&link=[YOUR TWITTER URL]) &nbsp; 
+![Dev.to Badge](https://img.shields.io/badge/Dev-%230A0A0A?style=for-the-badge&logo=devdotto&link=[YOUR DEV.TO URL])
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python"/>
 
-</p>
+### Projects
 
----
+| Name | Description | Project Link | Video Link |
+|------|-------------|--------------|------------|
+| [PROJECT 1 NAME] | [PROJECT 1 DESCRIPTION] | [Github]([URL]) | [Video]([URL]) |
+| [PROJECT 2 NAME] | [PROJECT 2 DESCRIPTION] | [Github]([URL]) | [Video]([URL]) |
+| [PROJECT 3 NAME] | [PROJECT 3 DESCRIPTION] | [Github]([URL]) | |
+| [PROJECT 4 NAME] | [PROJECT 4 DESCRIPTION] | [Github]([URL]) | |
+| [PROJECT 5 NAME] | [PROJECT 5 DESCRIPTION] | [Github]([URL]) | |
 
-## Frontend
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap"/>
+### Cloud, DevOps and Testing
 
-</p>
+![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black) &nbsp; 
+![Nginx Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black) &nbsp; 
+![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black) &nbsp; 
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black) &nbsp; 
+![Grafana Badge](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=black) &nbsp; 
+![Prometheus Badge](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=black) &nbsp; 
+![Vitest Badge](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white&labelColor=black)
 
----
 
-## Backend
 
-<p>
+### Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; 
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black) &nbsp; 
+![Redis Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=black) &nbsp;
+![Mongoose Badge](https://img.shields.io/badge/Mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black) &nbsp; 
+![Prisma Badge](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black) &nbsp; 
+![Supabase Badge](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=black) &nbsp; 
 
-</p>
 
----
 
-## Database
+### Programming Languages
 
-<p>
+![C Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black) &nbsp; 
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black) &nbsp; 
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) &nbsp; 
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6) &nbsp; 
+![Go Badge](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black) &nbsp; 
+![Python Badge](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase"/>
 
-</p>
 
----
+### Frontend
 
-## Tools
+![Next.js Badge](https://img.shields.io/badge/Next%20Js-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black&color=black) &nbsp; 
+![React Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black) &nbsp; 
+![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC) &nbsp; 
+![Axios Badge](https://img.shields.io/badge/Axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=black) &nbsp; 
+![React Query Badge](https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=black) &nbsp; 
+![Ant Design Badge](https://img.shields.io/badge/Ant%20Design-%230170FE?style=for-the-badge&logo=antdesign&logoColor=white&labelColor=black) &nbsp;  
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000) &nbsp;
+![Shadcn UI Badge](https://img.shields.io/badge/shadcn--UI-%23FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=black) &nbsp;
+![Firebase Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black) &nbsp;
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,docker"/>
 
-</p>
+### Backend
 
----
+![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) &nbsp; 
+![Express.js Badge](https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&logo=express&labelColor=black&color=black) &nbsp;
+![Socket.io Badge](https://img.shields.io/badge/Socket%20io-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black) &nbsp;
+![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab) &nbsp; 
+![JWT Badge](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black) &nbsp; 
+![ZOD Badge](https://img.shields.io/badge/ZOD-%233E67B1?style=for-the-badge&logo=zod&logoColor=white&labelColor=black)
 
-# 📊 GitHub Statistics
+
+
+### Tools and Others
+
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) &nbsp; 
+![VS Code Badge](https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black) &nbsp;
+![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black) &nbsp; 
+![Figma Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black) &nbsp; 
+![Jira Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=black) &nbsp;
+![Chrome Badge](https://img.shields.io/badge/Chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black) &nbsp; 
+![Edge Badge](https://img.shields.io/badge/Edge-%230078D7?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=black) &nbsp;
+![Firefox Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black)
+
+
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZisanUlHaque&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR GITHUB USERNAME]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR GITHUB USERNAME]&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ZisanUlHaque&theme=algolia&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Zisan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZisanUlHaque&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/ZisanUlHaque/ZisanUlHaque/output/github-contribution-grid-snake.svg"/>
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR GITHUB USERNAME]&" alt="[YOUR GITHUB USERNAME]" />
 </p>
-
----
-
-# 📌 Featured Projects
-
-## 🏠 RentNest
-
-Rental Marketplace Platform
-
-- Next.js
-- Express.js
-- Prisma
-- PostgreSQL
-- JWT
-- SSLCommerz
-
----
-
-## 📰 Prisma Press
-
-Modern News Portal
-
-- Next.js
-- TypeScript
-- PostgreSQL
-- Prisma
-
----
-
-## 🍽️ ShebaGo
-
-Service Marketplace Backend
-
-- Express.js
-- Prisma
-- PostgreSQL
-- JWT
-
----
-
-## ⚡ Socket.IO Realtime Order Tracking
-
-- Socket.IO
-- Express
-- React
-
----
-
-# ✍ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# ☕ Support Me
-
-If you like my work, consider giving a ⭐ to my repositories.
-
----
-
-<div align="center">
-
-### Thanks for visiting ❤️
-
-⭐ Don't forget to Follow me!
-
-</div>
