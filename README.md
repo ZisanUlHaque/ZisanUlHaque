@@ -104,27 +104,47 @@ I enjoy transforming ideas into real-world products, writing clean and maintaina
 ![Edge Badge](https://img.shields.io/badge/Edge-%230078D7?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=black) &nbsp;
 ![Firefox Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black)
 
+<!-- ===== PREMIUM STATS SECTION ===== -->
+
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub Stats"
-  />
+<h2>
+  📊 GitHub Analytics
+</h2>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top Languages"
-  />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-</div>
+<br><br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZisanUlHaque&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ZisanUlHaque&theme=dracula&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="60%"/>
+
+<br><br>
+
+<h2>
+  🏆 GitHub Trophies
+</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZisanUlHaque&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+
+<br><br>
+
+<h2>
+  📈 Contribution Graph
+</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZisanUlHaque&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
