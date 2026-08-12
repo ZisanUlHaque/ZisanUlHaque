@@ -106,45 +106,21 @@ I enjoy transforming ideas into real-world products, writing clean and maintaina
 
 <!-- ===== PREMIUM STATS SECTION ===== -->
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2>
-  📊 GitHub Analytics
-</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
-<br><br>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZisanUlHaque&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="60%"/>
-
-<br><br>
-
-<h2>
-  🏆 GitHub Trophies
-</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZisanUlHaque&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-
-<br><br>
-
-<h2>
-  📈 Contribution Graph
-</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZisanUlHaque&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
+<div width="100%" align="center">
+ <a href="https://github.com/ZisanUlHaque">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=ZisanUlHaque&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=ZisanUlHaque&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
+      <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=ZisanUlHaque&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/ZisanUlHaque">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=ZisanUlHaque&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=ZisanUlHaque" />
+      <img width="400px" align="center" src="https://github-readme-streak-stats-ranit.vercel.app?user=ZisanUlHaque&theme=radical&hide_border=true" alt="Streak Stats" />
+    </picture>
+  </a>
 </div>
