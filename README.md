@@ -105,9 +105,26 @@ I enjoy transforming ideas into real-world products, writing clean and maintaina
 ![Firefox Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZisanUlHaque&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisanUlHaque&layout=compact&theme=dracula&hide_border=false"
+    height="150"
+    alt="Top Languages"
+  />
+
 </div>
 
+<br>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZisanUlHaque&" alt="ZisanUlHaque" />
+  <img
+    src="https://streak-stats.demolab.com/?user=ZisanUlHaque&theme=dracula&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
