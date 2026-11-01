@@ -35,16 +35,15 @@ I enjoy transforming ideas into real-world products, writing clean and maintaina
 ![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/zisan-ul-haque/) &nbsp;
 ![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white&link=mdzisanulhaque989@gmail.com) &nbsp;
 ![Twitter Badge](https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=x&link=https://x.com/_Zisan_03) &nbsp;
-
 ### Projects
 
 | Name             | Description             | Project Link    | Video Link     |
 | ---------------- | ----------------------- | --------------- | -------------- |
-| **PUB GradPath** *(Hackathon 🥈 Runner-Up)* | An end-to-end higher-study discovery & application workspace featuring automated profile-to-opportunity fit matching, a version-controlled document vault (SOP/CV), and atomic 1-on-1 mentorship consultation booking. Built with Next.js 15, React 19, TypeScript, Prisma, and PostgreSQL. | [Github](https://github.com/ZisanUlHaque/shimana-periye-frontend)  | [Video](https://www.youtube.com/watch?v=CDkUl5r1YLg) |
-| HAQEX | A high-performance trading & cryptocurrency / asset exchange platform featuring real-time market data streaming, order book matching engine, secure multi-signature wallet flows, and modern trading charts. | [Github](https://github.com/ZisanUlHaque/HAQEX) | [Video] (https://drive.google.com/file/d/1mMU8fXh-5iSwcaYg_YBrVkUqJ7DbH6_8/view?usp=sharing)               |
+| **PUB GradPath** *(Hackathon 🥈 Runner-Up)* | An end-to-end higher-study discovery & application workspace featuring automated profile-to-opportunity fit matching, a version-controlled document vault (SOP/CV), and atomic 1-on-1 mentorship consultation booking. Built with Next.js 15, React 19, TypeScript, Prisma, and PostgreSQL. | [Github](https://github.com/ZisanUlHaque/shimana-periye-frontend) | [Video](https://www.youtube.com/watch?v=CDkUl5r1YLg) |
+| HAQEX | A high-performance trading & cryptocurrency / asset exchange platform featuring real-time market data streaming, order book matching engine, secure multi-signature wallet flows, and modern trading charts. | [Github](https://github.com/ZisanUlHaque/HAQEX) | [Video](https://drive.google.com/file/d/1mMU8fXh-5iSwcaYg_YBrVkUqJ7DbH6_8/view?usp=sharing) |
 | RentNest | A robust backend API for a rental property marketplace built with Express, TypeScript, Prisma, and PostgreSQL. Landlords list properties, tenants browse and request rentals, payments are processed via Stripe, and admins oversee the entire platform. | [Github](https://github.com/ZisanUlHaque/RentNest) | [Video](https://drive.google.com/file/d/1mBXWjxTLu6N9VWSBLrMiAl32KEUuhEbg/view) |
 | Prisma Press | A robust backend API for a modern blogging platform built with Express, TypeScript, Prisma, and PostgreSQL. Users can create posts, engage through comments, subscribe for premium content access via Stripe, and admins can moderate content with powerful reporting tools. | [Github](https://github.com/ZisanUlHaque/project-prisma-press-backend) |                |
-| BeeBite | BeeBite is a demo restaurant platform that showcases real‑time order tracking with Socket.IO, MongoDB, and a modern React + Tailwind CSS UI. | [Github](https://github.com/ZisanUlHaque/Socket.io) |                |              |
+| BeeBite | BeeBite is a demo restaurant platform that showcases real‑time order tracking with Socket.IO, MongoDB, and a modern React + Tailwind CSS UI. | [Github](https://github.com/ZisanUlHaque/Socket.io) |                |
 
 ### Cloud, DevOps and Testing
 
